@@ -1,0 +1,3803 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 37931
+   :PG.Title: Un'avventura di viaggio
+   :PG.Released: 2011-11-05
+   :PG.Rights: Public Domain
+   :PG.Producer: Carlo Traverso
+   :PG.Producer: Claudio Paganelli
+   :PG.Producer: Barbara Magni
+   :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+   :PG.Credits: This file was produced from images generously made available by The Internet Archive.
+   :DC.Creator: Roberto Bracco
+   :DC.Title: Un'avventura di viaggio
+   :DC.Language: it
+   :DC.Created: 1909
+   :coverpage: images/cover.jpg
+
+.. style:: title
+   :class: center
+
+.. style:: subtitle
+   :class: center
+
+.. role:: small-caps
+   :class: small-caps
+
+.. style:: block_quote
+   :class: small
+
+.. role:: xx-large
+   :class: xx-large
+
+.. role:: x-large
+   :class: x-large
+
+.. role:: large
+   :class: large
+
+.. role:: largeit
+   :class: large italics
+
+.. role:: small
+   :class: small
+
+.. role:: scene
+   :class: italics
+
+=======================
+Un'avventura di viaggio
+=======================
+
+.. _pg-header:
+
+.. container:: pgheader language-en
+
+   .. style:: paragraph
+      :class: noindent
+
+   This eBook is for the use of anyone anywhere at no cost and with
+   almost no restrictions whatsoever. You may copy it, give it away or
+   re-use it under the terms of the `Project Gutenberg License`_
+   included with this eBook or online at
+   http://www.gutenberg.org/license.
+
+   
+
+   |
+
+   .. _pg-machine-header:
+
+   .. container::
+
+      Title: Un'avventura di viaggio
+      
+      Author: Roberto Bracco
+      
+      Release Date: November 05, 2011 [EBook #37931]
+      
+      Language: Italian
+      
+      Character set encoding: UTF-8
+
+      |
+
+      .. _pg-start-line:
+
+      \*\*\* START OF THIS PROJECT GUTENBERG EBOOK UN'AVVENTURA DI VIAGGIO \*\*\*
+
+   |
+   |
+   |
+   |
+
+   .. _pg-produced-by:
+
+   .. container::
+
+      Produced by Carlo Traverso, Claudio Paganelli, Barbara Magni, and the Online Distributed Proofreading Team at http://www.pgdp.net.
+
+      |
+
+      This file was produced from images generously made available by The Internet Archive.
+
+
+.. container:: coverpage
+
+   .. image:: images/cover.jpg
+      :align: center
+
+.. container:: titlepage
+
+   .. class:: center
+
+   | :large:`ROBERTO BRACCO`
+   |
+   | :xx-large:`TEATRO`
+   |
+   | :large:`VOLUME PRIMO`
+   |
+   | NON FARE AD ALTRI... — LUI LEI LUI —
+   | **UN'AVVENTURA DI VIAGGIO** — UNA DONNA —
+   | LE DISILLUSE — DOPO IL VEGLIONE
+   |
+   | :small:`2ª EDIZIONE.`
+   |
+   |
+   |
+   | REMO SANDRON — Editore
+   |
+   | :small:`Libraio della Real Casa`
+   | :small:`MILANO-PALERMO-NAPOLI`
+
+.. container:: verso
+
+   .. class:: center
+
+   PROPRIETÀ LETTERARIA
+
+			*I diritti di riproduzione e di traduzione sono riservati
+			per tutti i paesi, non escluso il Regno di Svezia e quello
+			di Norvegia.*
+
+			È assolutamente proibito di rappresentare questi lavori
+			senza il consenso scritto dell'Autore *(Art. 14 del Testo Unico
+			17 Settembre 1882)*.
+
+			Published in Palermo, 10th. June Privilege of Copyright in the United
+			States reserved under the Act approved March 3rd. 1905, by Roberto Bracco
+			and Remo Sandron.
+
+			Off. Tip. Sandron — 126 — I — 290312.
+
+-----
+
+.. clearpage::
+
+[pg!87]
+
+.. class:: center
+
+| :x-large:`UN'AVVENTURA DI VIAGGIO.`
+|
+| :largeit:`Commedia in un atto`
+|
+| Rappresentata per la prima volta da :small-caps:`Pia Marchi`, nel 1887.
+
+[pg!88]
+
+.. clearpage::
+
+[pg!89]
+
+.. class:: center large
+
+PERSONAGGI:
+
+   .. class:: large
+
+   | :small-caps:`Carlo`.
+   | :small-caps:`Francesco`.
+   | :small-caps:`Bianca`.
+   | :small-caps:`Fifì`.
+   |
+   | A Roma — Epoca attuale.
+
+[pg!90]
+
+[pg!91]
+
+
+
+
+ATTO UNICO.
+===========
+
+
+*Una camera destinata alle galanterie e agli affari.
+Due porte laterali. Una finestra alla parete
+di fondo. Molta eleganza civettuola. Seggiole a
+sdraio, soffici divani, cuscini larghi e morbidi,
+tappeti e drapperie abbondanti. — Un tavolinetto
+grazioso. — Sul tavolinetto, alle pareti, da per tutto,
+ninnoli, stampe antiche, ricordi e fotografie di
+donne. — Qualche vaso di fiori. — Bottiglie di vino
+e di liquori. — Verso il fondo della camera, un paraventino
+messo di sbieco, che nasconde a metà
+una toilette, una specchiera, un divanetto e altri
+mobili, per così dire, opportuni.*
+
+
+SCENA I.
+--------
+
+CARLO *e* FIFÌ.
+```````````````
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(innanzi alla specchiera, dietro il paravento,
+aggiustandosi il cappello sul capo e badando all'effetto
+complessivo della sua figurina)* Dunque,
+a stasera, eh?
+
+[pg!92]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(accendendo una sigaretta e guardando lei con
+familiare compiacenza)* A stasera. *(Lunga pausa.)*
+Ma sì, ma sì che va bene!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+No, vieni qua, Fuffino mio. Ti piace più così...
+*(variando la posizione del cappello)* o così?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(le va vicino)* Aspetta. Fammi vedere.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(ripetendo più esageratamente la variazione suddetta)*
+Così... o così? Come preferisci?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Preferisco... tutti e due i modi.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(piegando le braccia con aria seria seria)* E come
+farò, adesso?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Come farai che cosa?
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Come farò a decidermi? *(Sedendo di proposito)*
+Io resto qui finchè non avrò deciso come debbo
+[pg!93]
+portare il cappello. *(Si alza.)* Ah! Ecco un'idea
+luminosa. *(Si toglie il cappello e s'avvicina a Carlo.)*
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Che fai?
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Zitto, Fuffino mio. *(Gli mette il cappello in capo.)*
+Vedi, bisogna pensare col proprio capo, ma guardare
+i cappelli sul capo altrui.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(graziosamente)* Santa pazienza!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(contemplandolo)* Dà a me questa sigaretta: è
+una stonatura. *(Prende la sigaretta e fuma, aggiustando
+in varie maniere il cappello sul capo di
+Carlo.)* Vediamo un po'. *(Lo contempla di nuovo.)*
+Bene! Benone! Ho trovato. *(Gli toglie il cappello
+e se lo rimette.)*
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ora, posso accendere un'altra sigaretta?
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Accendi pure. *(Guardandosi nello specchio)* Oh!
+precisamente!! A meraviglia!... *(Andandosene)*
+Sicchè, a stasera.
+
+[pg!94]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Sì, a stasera, carina.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(scambia il mozzicone della sigaretta, che ha fra
+le labbra, con quella intera che ha in bocca Carlo,
+dicendogli con civetteria e con un accento bambinesco:)*
+Questa a me, e questa a te.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Cioè, a me un mozzicone....
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Tu sai che le mie labbra... sarebbero capaci di
+ridurre in cenere una sigaretta ogni minuto secondo.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Cielo, ti ringrazio!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Di che?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Di non essere una sigaretta. Del resto, tu mi
+fumi lo stesso.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(mentre, ridendo, sta per partire, s'arresta)* Oh!
+*(Desolata, mostra un piede)* Fuffino, non vedi?
+
+[pg!95]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Un piede.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Un bottone mi ha tradita. Aggiusta tu.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(inginocchiandosi per abbottonare lo stivalino)*
+Tradimento momentaneo. Il bottone è al suo posto,
+e non bisogna che farlo rientrare nell'occhiello.
+Rientrerà, rientrerà. Dice un poeta: *(declamando)*
+
+   | Non abbandona un cuore il cuor gemello;
+   | non abbandona il suo botton l'occhiello!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(guardando il capo di Carlo, in tono d'allarme)*
+Fuffino!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Lasciami lavorare....
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Un capello bianco! *(Pausa.)* È come l'argento!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(senza darle retta)* Questo diavolo di bottone è
+più impertinente di quanto pareva.
+
+[pg!96]
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Fuffino, me lo piglio io questo capello?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(borbotta e non le bada, mentre ella s'accinge a
+tirargli il capello bianco)* Ah, perbacco! È caparbio!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(tirandogli il capello, trionfalmente)* È fatta! Te
+l'ho strappato! *(Se lo avvolge al dito.)*
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(alzandosi, tutto compunto, col bottone in mano)*
+E te l'ho strappato anch'io.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Ecco come vanno le cose del mondo: io faccio
+ritardare d'un capello la tua vecchiezza e tu fai
+accelerare... d'un bottone la vecchiezza dei miei
+stivalini!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Taci, taci, per carità! *(Mettendole la mano sulla
+bocca)* Non filosofare!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Perchè, Fuffino, perchè debbo tacere?
+
+[pg!97]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(solennemente)* Perchè se il mio capello è d'argento,
+il tuo silenzio è d'oro.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(allegramente)* Ora, poi, me ne vado davvero.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+A rivederci, Fifì.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(sulla soglia della porta di destra)* Un bacetto?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(dandoglielo)* Un bacetto.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+E mi vuoi sempre bene?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Semprissimo.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Mi vuoi bene più di otto giorni fa?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Più di otto giorni fa.
+
+[pg!98]
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Più di ieri sera?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Più di ieri sera.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(incalzante)* Più di stamane?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Più di stamane.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Più di domani?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Più di domani.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Oh!?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Cioè, no!... Vedi che mi fai dire? Oggi, meno
+di domani, domani più di oggi. Che diamine! Sono
+cose che si capiscono.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Ora va bene, ora va bene. *(Va via, ridendo festosamente,
+mentre Carlo la segue con lo sguardo,
+buttandole baci con la punta delle dita.)*
+
+[pg!99]
+
+
+SCENA II.
+---------
+
+CARLO *solo. Poi* FRANCESCO.
+````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(chiudendo la porta)* Carina... ma cretina! Cioè,
+cretino io... ovvero, cretini tutti e due. *(Prende di
+su la scrivanietta una bottiglia di Cognac e due
+bicchierini e ripone tutto sopra una mensola.)* Ecco
+una specie di barometro della galanteria da scapolo.
+*(Riprende la bottiglia e, contemplandola)* Dopo
+un tête-à-tête, guardando i cerchietti di cristallo
+d'una bottiglia di Cognac, si può sapere in che condizione
+si trovi l'atmosfera della galanteria. Qui
+mancano due sole prese di Cognac. Il liquido è
+molto su: atmosfera pesante. Il barometro segna:
+noia. *(Mentre ripone, sbadigliando, la bottiglia sulla
+scrivanietta, sente picchiare.)* Oh! una visita
+fuori programma. Chi sarà mai? *(Va ad aprire la
+porta a destra.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+.. class:: center
+
+*(comparisce con in mano molte valige.)*
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Chi vedo?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Eh! sono qui. *(Posa le valige.)*
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ma bravo! Che bella sorpresa!
+
+[pg!100]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Bella... più di no che di sì.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+E perchè poi?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Perchè io non vengo soltanto a farti una visita.
+Io vengo a depositare in casa tua....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Le valige?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Qualche cosa di più!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+La tua persona?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Qualche cosa di più: una conquista!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Tanto meglio! Ma bada: questa non è precisamente
+la mia casa.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Non me ne affliggo, purchè possa diventare, provvisoriamente,
+la casa mia. Ma, a proposito, non ti
+ho sempre scritto, indirizzando le lettere qui?
+
+[pg!101]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Naturale. Io, qui, in questo grazioso bugigattolo,
+ricevo lettere, e ricevo... intendi?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Intendo: è il tuo bureau... d'affari. Sicchè, cattivo
+soggetto, ti ho lasciato scapolo, e, dopo tre
+anni, ti ritrovo, benchè ammogliato, più scapolo
+di prima. E di tua moglie, che io non ho il piacere
+di conoscere, che ne è?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+È lontana! Separazione completa e definitiva per
+incompatibilità di carattere....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+E di attribuzioni. Poverina!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Sai... qualche mia scappatella.... Ma non parliamo
+di ciò, adesso. Parlami piuttosto di te e della
+tua conquista, e dimmi se persisti nell'idea di depositarmi...
+non so che cosa.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Persisto. Fra qualche minuto... ella è qui.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Qui?... Ed io?
+
+[pg!102]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Oh, non ti preoccupare! Ho pensato a tutto. Tu
+te ne andrai.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Molto bene!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Amico mio, finalmente ho saputo che cosa significa
+un'avventura di viaggio. Avevo sempre creduto
+che le avventure di viaggio fossero una rèclame
+bugiarda delle società ferroviarie, e non ci
+avevo mai prestato fede; ma ora....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Raccontami... raccontami....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(emozionato)* Raccontarti? È impossibile! Figurati
+la stazione di Genova....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Me la figuro.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(entusiasmato)* I vagoni, la vaporiera, i facchini
+e il resto....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(secondandolo)* E il resto.
+
+[pg!103]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Nel primo scompartimento d'un vagone entro io.
+Due donne sono entrate prima di me: una sui sessant'anni....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Era lei?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+No. L'altra dai trenta ai quindici anni, o viceversa.
+Questa era lei. «Scusi — mi dice — questo
+scompartimento è riservato alle signore». «Sì, ma
+non si dia pena — rispondo io — . Benchè riservato
+alle signore, io ci starò bene lo stesso».... Non ci
+ridi?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(ridendo per convenienza)* Ah, ah, ah!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Grazie. Ella ha riso come te. E dice un proverbio
+arabo: «donna che ride, mezzo conquistata.»
+Insomma, la vecchia borbottava in tedesco, ed io
+non aveva l'obbligo di capire, la giovane continuava
+a ridere in italiano, il capo treno accettava
+un biglietto di scusa cosmopolita... da dieci lire;
+e sono restato.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Che cosa avvenne durante il viaggio?...
+
+[pg!104]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Niente! Neanche un'occhiata incoraggiante,
+neanche una parolina che m'avesse lasciato sperare.
+Non c'era mica da meravigliarsene. Io pensavo:
+in uno scompartimento riservato, non ci possono
+essere che delle signore riservate. Carina anche
+questa, eh?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+E la conquista?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Un momento. Quando il treno è giunto alla stazione
+di Roma, mentre un facchino prendeva la
+roba di lei e la roba mia, mettendo le mie valige
+a contatto delle sue, io le ho chiesto se avesse bisogno
+dei miei servigi....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ella ha risposto di sì?...
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Oibò! Ella ha risposto di no. Ma quando le ho
+offerto la mia carta di visita, sulla quale, con un
+lapis, avevo segnato l'indirizzo della tua dimora,
+dove già contavo di piombare, la mia bella incognita — perchè
+era ed è ancora per me un'incognita — si
+è sentita presa da una subitanea passione
+per me. Evidentemente, il mio nome è stato
+per lei irresistibile. I suoi occhi hanno avuto sguardi
+[pg!105]
+voluttuosamente intensi, le sue mani hanno più
+e più volte strette le mie e.... «A rivederci, signore» — m'ha
+detto con effusione — «A rivederci
+al più presto possibile. Anzi, fra pochi minuti, io
+verrò a farvi una visita.» Era commossa, nervosa,
+eccitata. Io, che vuoi? pure essendo un po' abituato
+a queste cose, ho sentito un groppo alla gola,
+e sono rimasto lì, senza nemmeno ringraziarla.
+Soltanto, quando lei, dolcemente, mi ha soggiunto:
+«mi riceverete?», io le ho risposto....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Che le hai risposto?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+«Vi adoro»!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+E lei?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(come se dicesse una cosa naturale e perfettamente
+lusinghiera per lui)* Lei se n'era già andata!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ma verrà certamente?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Oh, se verrà! Il cuore non m'inganna: quella
+donna mi ama, e sono innamorato anch'io, sai,
+[pg!106]
+sono innamorato sul serio. Oh! la ferrovia fa dei
+miracoli in fatto d'amore. La velocità stessa del
+treno affretta gli avvenimenti. Si vede una donna
+alla stazione di Genova, la si ama alla stazione
+di Spezia, la si adora alla stazione di Roma. Se
+si continuasse il viaggio insieme sino a Napoli, si
+giungerebbe alla stazione di Napoli o troppo presto
+o troppo tardi.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+E quando non si continua il viaggio sino a Napoli....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Si va in casa d'un amico e gli si dice....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+«Va a passeggiare....»
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Nè più nè meno.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(scherzosamente)* E sta bene. *(Si mette il cappello.)*
+Me ne vado. *(Consegnandogli la stanza.)* Questa,
+come vedi, è una stanza unica, ma molto comoda.
+*(Con significato di circostanza, quasi mostrandogli
+i divani, il paravento, ecc.)* È una stanza,
+insomma, piena di comfort. Ci sono due porte.
+Una di qui, *(a destra)* porta ufficiale, l'altra di
+[pg!107]
+là *(a sinistra)*, valvola di sicurezza. Ti raccomando.
+A rivederci. Io ritornerò....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+.. class:: center
+
+*(vorrebbe dire qualche cosa.)*
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Non temere. Quando la finestra sarà aperta... significherà
+che io potrò ritornare. Restiamo intesi?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Restiamo intesi.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Buona fortuna!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(con compiacenza e ostentata modestia)* Eh!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(esce dalla porta a sinistra; quindi, prima di
+chiudere l'uscio, facendo capolino)* Ti occorre altro?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+No, grazie. Il resto l'ho con me.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+.. class:: center
+
+*(se ne va.)*
+
+[pg!108]
+
+
+SCENA III.
+----------
+
+FRANCESCO *solo. Poi* BIANCA.
+`````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(girando per la stanza)* Vediamo un po'. Non
+c'è che dire, è proprio quello che ci voleva. Intanto,
+giacchè ce n'è il tempo, completiamo la persona
+elegante che abbiamo abbozzata nella stanza
+di toilette della stazione. *(Si pettina, si appunta i
+baffi, si spolvera, si profuma, si guarda nello specchio.
+È molto soddisfatto di sè.)* Pih! non c'è male.
+Così, a occhio e croce, sono... non toccherebbe
+a me il dirlo, ma, via, sono belloccio. *(Si picchia
+alla porta a destra.)* È lei! Eppure, non ho provato
+mai tanta emozione. *(Tutto affaccendato e perplesso,
+va verso la porta e s'accorge d'avere ancora
+una spazzola in mano.)* Uh! la spazzola! *(Si confonde,
+come se nella stanza non trovasse dove mettere
+la spazzola. Sta per cacciarsela in saccoccia,
+quindi si decide a posarla sul mobile che è più lontano
+dalla porta. Infine, delicatissimamente, apre
+l'uscio.)*
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+.. class:: center
+
+*(entra.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(commosso, le prende le due mani con effusione
+frenata)* Ma è proprio vero?... Voi... siete venuta?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(guardando intorno e sforzandosi di sembrare
+gentile e amorevole verso Francesco)* Mi pare di sì.
+
+[pg!109]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(con una certa vanitosa soddisfazione)* Sicchè...
+il vostro contegno durante il viaggio non era una
+manifestazione d'indifferenza.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(con mal celata timidezza)* Oh! tutt'altro!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(fra sè, mentre ella è assorta nella curiosa contemplazione
+del salotto)* Evidentemente, non è una
+cocotte, è semplicemente una donna leggera.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Che salottino profumato!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Infatti, sì. Vi dispiace il profumo? Vi dispiace
+di trovarvi qui?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Anzi!...
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(sempre insinuante)* Volete levarvi il cappello e
+il mantello?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Ma.... *(Continua a guardare attorno.)*
+
+[pg!110]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(con languore, seducendola)* Coraggio! In fondo,
+non si tratta che d'aver coraggio....
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(risoluta)* Oh, non dubitate, ce n'ho del coraggio!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Meno male. Vuol dire che non vi faccio paura.
+E perchè poi farvi paura? Tanto più che se voi,
+bella e strana signora, vorrete serbare l'incognito,
+io, fede di gentiluomo, sarò ben lieto di rispettarlo
+ciecamente.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Non v'interessa di sapere chi sono io?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+So che siete bella, so che siete qui, sola, vicino
+a me, so che qui vi ha condotta il presentimento
+di trovare in me l'uomo capace di comprendervi e
+di amarvi!... Il resto non m'importa. Sedete, sedetemi
+accanto. *(Prendendola per una mano, la
+conduce sin presso un divano.)*
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+.. class:: center
+
+*(siede di malavoglia.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(sedendo anche lui)* Parliamo.
+
+[pg!111]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Sì, parlate. *(Preoccupata, continua a guardare
+intorno, poi, levandosi e allontanandosi)* Io vi ascolto
+tanto volentieri.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Se vi allontanate da me, non potrò fare che un
+soliloquio.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(sforzandosi di essere gentile)* Ma io non v'impedisco
+di seguirmi. *(Andando di qua e di là, guarda
+i muri.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* Veramente, preferirei un tête-à-tête meno
+peripatetico.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(tra sè, imbizzita)* È il laboratorio galante di quel
+mostro di mio marito. *(A Francesco, che è ancora
+seduto)* Vi ho detto che non v'impedisco di seguirmi.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* Facciamo a modo suo. *(A lei, seguendola)*
+Vi seguo.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(tra sè, tormentandosi)* Ed è qui che gli spedivo
+le mie lettere d'affari!
+
+[pg!112]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Che guardate? che mormorate?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Non ho mai visto un salotto così.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Eppure, non c'è nulla di speciale.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+C'è tutto di speciale. Questo non è un salotto...
+onesto. Le donne che ci hanno lasciato qualche
+cosa sono innumerevoli!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* È gelosa, buon segno! *(A lei)* Può darsi
+che questo salotto non sia precisamente mio e che
+io alloggi qua, così, di passaggio, e che di tutte
+le donne, di cui voi vedete le tracce, io non ne
+conosca nessuna. *(Tra sè)* Bisogna lasciarla nel
+dubbio.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(esaminando i ritratti)* Questo per esempio, è
+proprio il ritratto d'una ballerina!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(andando a guardare il ritratto)* Già!
+
+[pg!113]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(nervosissima)* Si vede dall'abito... che non ha.
+Ed è bellina, la sfacciata!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* Non è una donna leggera, è semplicemente
+una donna bizzarra. *(A lei)* Non ci badate,
+cara. *(Prendendole una mano)* Io non conosco che
+voi, io non ho che un solo ritratto: il vostro...
+impresso nel cuore.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(continuando l'analisi, domanda con violenza)*
+E questa, perchè è vestita da uomo?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Mah!... Probabilmente per provare le emozioni
+dell'altro sesso!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(col tono di chi non si lascia ingannare)* Ma è
+una donna! Oh, se lo è!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(indicando, col gesto, le forme abbondanti della
+donna fotografata)* Perbacco, se lo è!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+E c'è una dedica, «Al Carlino dei mio cuore».
+
+[pg!114]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Lo vedete! Il Carlino non sono io.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(sempre cercando e guardando con una mal dissimulata
+ansia)* Oh! uno scarpino! *(Mettendolo
+sotto il muso di Francesco)* Questo è uno scarpino.
+*(È una elegante scarpettina da ballo, d'un microscopico
+piedino femminile.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(con la convinzione di fare una scoperta)* E credo
+che sia uno scarpino... di donna.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Se fosse d'un uomo, quest'uomo dovrebbe essere
+un lilliputto!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Vi giuro che non ho nulla di comune con questo
+scarpino.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(con rabbia)* È un ricordo!...
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Dei Paesi Bassi!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(guardandone con disgusto la suola)* E qui c'è
+un'altra dedica. Si fa dedicare tutto, questo signore:
+[pg!115]
+anche uno scarpino! Che dice? Non si legge
+bene. *(Mostrandolo a Francesco)* Leggete voi.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(interpretando)* No, non è una dedica: è un versetto
+biblico o quasi biblico. *(Leggendo:)* «Il piede
+sinistro non deve sapere quello che dà il piede
+destro!»
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(irritandosi)* E che cosa mai può dare il piede
+destro?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(con l'analogo movimento d'una gamba, e timidamente)*
+Mio Dio, una pedata.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(scoppiando)* Ma è un'indegnità! È un'infamia!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(sodisfatto, tra sè)* È gelosa. Come mi ama! *(A
+lei)* Calmatevi, via, calmatevi. E non continuate
+questo increscioso inventario. Non vi sembra che
+ci sia da fare qualche cosa di meglio? Tutta questa
+roba non è che tappezzeria.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(sempre più commossa)* Ma è di quella tappezzeria
+che abitua a una vita molle, leggera, sciocca.
+[pg!116]
+E chi non è avvezzo a vederla ne sente disgusto,
+nausea, schifo! *(Poi, risoluta)* Me ne voglio andare.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* Come mi ama! *(A lei)* Io vi garantisco
+che potete chetarvi, mia bella e bizzarra incognita.
+Guardatemi, guardatemi in viso....
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(gli volta le spalle, senza badargli punto.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Brava! Così! Non v'accorgete che sono innocente,
+e che... sono vostro?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Tutto questo sta bene; ma io me ne voglio andare.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+No, rimanete. Astraetevi dall'ambiente che vi circonda....
+Riconcentratevi in voi. Anzi, riconcentratevi
+in me.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(scoprendo sopra una mensola il ritratto di Carlo)*
+Ah, quel ritratto lì....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Ricomincia l'inventario!
+
+[pg!117]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(pigliando il ritratto, e osservandolo con amarezza)*....
+è un ritratto... completamente mascolino!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* Quello di Carlo, ora. *(A lei)* Sì... questa
+volta, la persona fotografata, benchè sia pur essa
+vestita da uomo,... non è una donna.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+È un mostro.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Mostro mostro, no. Via, bruttino!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Bruttissimo! Uh!... Che muso! *(Sempre eccitata,
+fissando la fotografia)* Sì, avete ragione. Voglio restare.
+*(Smette precipitosamente il mantello.)* E voglio
+togliermi perfino....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Perfino?...
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Il cappello! *(Esegue.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Non è molto.
+
+[pg!118]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+È moltissimo.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(con fatuità)* Moltissimo? *(Tra sè)* È fatta!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Io voglio restare, vi dico! Voglio restare.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Ma sì, ho capito! *(Tra sè)* Non è una donna
+bizzarra; è semplicemente un angelo.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(ripone la fotografia di Carlo sulla mensola,
+quindi va a sedere sul divano, quasi trascinando
+Francesco con finta dolcezza)* Venite, sedete vicino
+a me.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(inebriato)* Oh!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(rialzandosi)* Un momento. *(Va a pigliare la fotografia
+di Carlo e la colloca sul mobile più vicino
+al divano, come per farla presenziare alle
+sue espansioni. Quindi, torna a sedere.)* Io sono
+qui per voi, soltanto per voi, e mi riconcentro in
+voi.
+
+[pg!119]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Raccontatemi tutto quello che è avvenuto in
+poche ore nel vostro cuoricino. Durante il viaggio,
+voi volevate vincere, volevate soffocare, non è vero?,
+quel non so che, dal quale vi sentivate presa
+per la mia persona.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Sicuro!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Ma era destino! Nel momento di separarci, io
+vi ho data la mia carta, col mio indirizzo....
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Ed io subito vi ho dato il mio cuore, senza il
+mio indirizzo....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Ed ora siete mia.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Vostra.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+In mio potere....
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+In vostro potere....
+
+[pg!120]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+E avete fiducia in me?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(come se pensasse per la prima volta a qualche
+cosa)* Se ho fiducia in voi? Aspettate. *(Pausa. Lo
+guarda bene.)* Perchè no? Sì, ho fiducia in voi.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(preoccupato e imbarazzato)* Ma scusate... che specie
+di fiducia?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+E... scusate, *(con furberia e sussiego)* quale fiducia
+voi credete di meritare?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Quella del gentiluomo: *(cambiando tono)* ma anche
+quella del....
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(a tempo)* Fermiamoci qui, fermiamoci a «gentiluomo».
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(accendendosi molto)* Ma questo gentiluomo ha
+un cuore che palpita e ha del sangue nelle vene.
+Questo gentiluomo sa intravvedere tutto un paradiso
+[pg!121]
+inaspettato: e, intravvedutolo, non può, non
+vuole, non deve rinunziarvi. *(Eccitato, con intimità)*
+Se questo gentiluomo non picchiasse alla
+porta di quel paradiso, sarebbe o un ingrato o uno
+sciocco... *(afferrandole le mani)* ed io, mia bella,
+mia adorabile incognita, *(sta per abbracciarla con
+entusiasmo)* io picchio!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(alzandosi e dandogli uno schiaffo)* E picchio
+anch'io!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(portando la mano alla guancia)* Me ne sono accorto!
+*(Pausa. Poi, tra sè)* Non è un angelo, è semplicemente
+un dragone.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(tra sè, allontanandosi)* Se avessi saputo che, venendo
+in casa di mio marito, non avrei trovato...
+che il suo ritratto, certo non mi sarei arrischiata
+a scegliermi per istrumento di vendetta un viaggiatore
+così intraprendente.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(con solennità)* Signora, tutto è finito tra noi due!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+E le porte del paradiso?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Mi sono state chiuse sulla faccia con una certa
+violenza.
+
+[pg!122]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(gentile)* Ma io vi offro....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(ansiosamente)* Mi offrite...?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Il purgatorio.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Sarebbe?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+La mia amicizia. Vi si può entrare senza aver
+bisogno di picchiare. Basta una buona stretta di
+mano. *(Esegue.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Vada pel purgatorio! *(Borbotta a mezza voce:)*
+Il purgatorio dell'oggi dovrebbe essere il paradiso
+del domani. Speriamo! *(A lei, forte:)* Ma, dunque,
+chi siete?... chi siete?...
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(col proposito di non rispondergli)* Di grazia, il
+mio cappello e il mio mantello dove sono?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tutto affaccendato e confuso)* Li cerco.
+
+[pg!123]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(sul tavolinetto, trova, intanto, un piccolo portafogli.
+Lo prende e mormora:)* Un portafoglino femminile!
+*(Lo apre, ne trae una carta di visita e
+legge:)* Fifì Bandinelli. *(Tra sè)* L'indegno! Ma
+troverà invece il mio portafogli. *(Sostituisce con il
+suo il portafogli trovato, che conserva.)* Provi un
+po' quel che ho provato io. E mi servirà anche di
+pretesto per tornare! *(A Francesco, che ha cercato
+e preso il mantello e il cappello)* Il mio mantello,
+il mio cappello, subito....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Sono qui. *(Aiutandola a mettere l'uno e l'altro)*
+Ecco quello che io mi domando. Chi siete? Un
+enigma? Un rebus? Una sciarada?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Appunto. Una sciarada. Una sciarada che potete
+offrire all'acume di... tutti i vostri amici: il primo
+ama, il secondo perdona, l'intero ritorna.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+È una sciarada a premio?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Chi sa! Dipende dallo scioglitore. A rivederci....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Permettete che v'accompagni sino alla porta del
+cortile? Siete venuta, è vero, di nascosto; ma potete
+andarvene, ahimè, palesemente.
+
+[pg!124]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Il vostro braccio.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Un momentino. *(Corre a spalancare la finestra.)*
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Fate bene ad aprire la finestra.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Perchè?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Perchè, in questo salotto destinato alle conquiste,
+dopo il nostro abboccamento, c'era bisogno di
+rinnovare un po' l'aria.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tornando a lei)* Il mio braccio è ai vostri ordini.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(accettando)* Mi dispiace, per altro, d'incomodarvi.
+Dovete essere molto stanco....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(sulla soglia)* Veramente, non c'è di che!
+
+.. class:: center
+
+| :scene:`(Escono.)`
+
+[pg!125]
+
+
+SCENA IV.
+---------
+
+CARLO, *poi* FRANCESCO.
+```````````````````````
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(facendo capolino dalla porta a sinistra, chiama:)*
+Francesco! Francesco! Oh! È andato via anche
+lui! *(Entra, guardando intorno, con l'aria di credere
+che in quella stanza non si è mica detto il
+rosario.)* Nessuna traccia. Un po' di disordine nei
+ninnoli e nei ritratti, e niente altro. *(Sorpreso)* Il
+mio ritratto sull'orlo... d'un precipizio, forse!...
+Veramente, avrebbero potuto lasciarmi in pace.
+*(Vede il portafogli.)* Un portafoglino dimenticato....
+Che sia quello di Fifì? È tanto stordita! *(Lo apre,
+legge un biglietto di visita, trasalisce, impallidisce.)*
+Bianca Tebaldi! Com'è possibile? *(Profondamente
+scosso)* Ma sì: lei, lei! Qui... con... *(Inorridendo)* È
+una combinazione raccapricciante! *(Riflette)* Eppure,
+non è una combinazione. Ella sapeva l'indirizzo
+di questa casa, perchè è qui che io ricevo le sue
+lettere d'affari. Ed è venuta qui per un convegno
+galante! Ah, è orribile, è orribile!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(entrando, nota il suo turbamento e gli dice:)*
+Ohè, che hai?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Niente.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Come niente? Hai una certa faccia....
+
+[pg!126]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ho un po' di mal di capo. *(Toccandosi naturalmente
+la fronte)* Non ci badare. *(Con forzata disinvoltura)*
+Ebbene?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(mortificato, ma non volendo confessare il fiasco)*
+Ebbene?...
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*Prosit.*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Ti ringrazio. Ma lasciamo andare....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Insomma, dimmi, uomo fortunato, uomo irresistibile:
+come sono andate le cose? Benone, eh?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Sì, benone....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(sussultando e fingendo gaiezza)* A vele gonfie?...
+E sei giunto in porto sano e salvo?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Sano, *(ricordandosi dello schiaffo)* via, per miracolo.
+
+[pg!127]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Perbacco, una donna assai facile! Il colloquio...
+è stato tanto breve!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Breve, *(toccandosi la guancia)* ma... sentito.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Molta vivacità.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Molta.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Su! Sentiamo i particolari.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(evitando)* Un'altra volta: ora sono ancora troppo
+commosso.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Diamine! Sei vecchio del mestiere!... Ma come!
+Sei commosso davvero? Questa... donnina ti ha
+proprio stregato?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Mi ha... stregato.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+E... ti ama?
+
+[pg!128]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Mi ama... a modo suo... si capisce. Non tutte le
+donne amano allo stesso modo.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(con ansia raffrenata)* E in che modo ti ama?
+Dimmi, dimmi!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Non so spiegartelo.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+È appassionata? è altera? è alla mano?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+È alla mano: precisamente.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Piacente, graziosa, elegante?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Oh, quanto a questo, è insuperabile! Un bocconcino,
+amico mio! Ma,... basta....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Con le tue reticenze, mi dai sui nervi. Fuori,
+fuori i particolari.
+
+[pg!129]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Sei un bel tipo. Non ti credere che si tratti d'una
+crestaina o d'una *cocotte* qualunque!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ah no! E di chi si tratta?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Caro mio, ella ha serbato l'incognito; ma dev'essere
+una gran signora... di cervello un po' balzano,
+beninteso. Dev'essere una gran dama bisbetica,
+capricciosa...: qualche strana donna, maritata chi
+sa come, chi sa dove, chi sa con chi... Con un imbecille,
+di certo!...
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(trattenendosi e secondandolo)* Sì sì!... Però, imbecille
+poi, perchè?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Perchè un uomo che possiede una donna come
+quella lì, e la lascia passeggiare sola per il mondo,
+se non è proprio un imbecille nato, dev'essere un
+imbecille di carriera, o deve avere una gran voglia
+di diventarlo. Bisogna proprio essere un marito
+per avere di tali ambizioni. E se questo povero
+sventurato esiste....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Io dico di sì!...
+
+[pg!130]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Tanto meglio! Se, dunque, questo povero sventurato
+esiste, l'ha scappata bella!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+L'ha scappata bella? Sicchè non...?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Già, tu sai come sono le donne. Certe volte fanno
+la corsa dell'asino. Vanno, vanno, vanno, e
+poi, a un tratto, *tta*, si arrestano.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Lei... *tta*... si è arrestata?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Crederei di sì.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(scattando irritato)* Sì o no? *(Poi, frenandosi e
+fingendo di sorridere)* Scherzo. Eppure, ti confesso,
+sono curioso. Dunque, sì o no?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Giudica tu stesso.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Oh! Di'! Da bravo!
+
+[pg!131]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Smanie, spasimi, irrequietezze, ogni sorta di manifestazioni
+d'amore verbale, e gelosia, poi, senza
+fine. Figùrati una *Otella*! E... che so... le ho mostrato,
+per esempio, il tuo ritratto, per vedere che
+impressione le facesse un altro uomo a paragone
+di me... e....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Abbrevia!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Tu, in complesso, sei una persona piuttosto simpatica....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Questo è vero, ma abbrevia!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Ebbene, non avertelo a male: tu a paragone
+di me, le sei sembrato brutto.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Brutto addirittura?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Nè più nè meno che brutto! Insomma, era un
+crescendo che faceva sperare il più delizioso dei
+punti coronati....
+
+[pg!132]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+E invece?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Invece, il punto coronato è stato un... ceffone!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(scoppiando in gioia)* Ah ah! Benissimo!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Ti prego di moderare le esclamazioni!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Perchè?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Perchè m'irriti!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Per ora, racconta. T'irriterai dopo.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Non ho più nulla d'importante da raccontare.
+Rasserenatasi alquanto, mi ha lasciato, affidandomi
+una certa sciarada da sciogliere.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Una sciarada?
+
+[pg!133]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+«Il primo ama, il secondo perdona, l'intero ritorna.»
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(sempre più rianimandosi)* Ah! ritorna?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+E se son rose, fioriranno. *(Si sente picchiare alla
+porta di destra.)* Che sia proprio lei che ritorna?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Di già? *(Sta per aprire.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(trattenendolo)* Lascia andare me. Voglio prima
+domandare. Se è lei, non bisogna comprometterla.
+Tu sei qui.... Sarebbe una indelicatezza da parte
+mia il farla entrare. *(Si sente picchiare di nuovo.)*
+Eccomi. *(Con dolcezza)* Chi è?
+
+[pg!134]
+
+
+SCENA V.
+--------
+
+BIANCA, FRANCESCO, CARLO.
+`````````````````````````
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(di fuori)* Sono io, sono io: la vostra incognita.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(rivolgendosi a Carlo)* Lei.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Lei!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(di fuori)* Debbo aver dimenticato il mio portafogli.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(a Carlo)* È un pretesto per ritornare da me. *(A
+Bianca)* Sì, sì, grazie, grazie! capisco! Ma ora, mia
+adorabile incognita, non sono solo. È qui con me
+un mio amico. Voi conoscete la mia discrezione, e
+debbo rassegnarmi a non aprirvi le porte di quel
+paradiso che sapete. *(Tossisce per farsi capire.)*
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(tra sè)* Te lo do io il paradiso.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(di fuori)* Ma come si chiama il vostro amico?
+
+[pg!135]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(subito)* Si chiama Carlo Tebaldi.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Sicuro, si chiama Carlo Tebaldi.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(di fuori)* Allora, non m'importa. Questo signore
+non lo conosco e non mi conosce. Non temo di
+essere compromessa. Aprite.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* Quale imprudenza! Andate poi a dire
+che questa donna non mi ama. *(Apre.)*
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+.. class:: center
+
+*(entra.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+.. class:: center
+
+*(le prende ambo le mani.)*
+
+.. class:: center
+
+| :small-caps:`Carlo e Bianca`
+
+.. class:: center
+
+*(si scambiano occhiate di rabbia.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(all'orecchio di Bianca, con mellifluità)* Io non so
+se voi abbiate lasciato davvero qui il vostro portafogli,
+ma, in ogni caso, per giustificare la vostra
+venuta, io fingerò di cercarlo.
+
+[pg!136]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(nervosa e frettolosa)* Più tardi. Per ora, vi prego,
+fate la presentazione.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Vi presento il mio intimo amico: Carlo Tebaldi,
+giovane ammogliato, che è....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(interrompendolo stizzosamente)*... celibe.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Un ammogliato celibe è un bel fatto!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Ah! celibe?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(aspettando il compimento della presentazione, a
+Francesco)* E la signora?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+La signora... *(Facendo dei cenni a Bianca, come
+per domandarle che cosa debba dire)* Come devo?...
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Quanto al cognome, non vi date pena. Quello
+che porto è un po'... discreditato. E quanto al nome,
+datemene uno a piacere.
+
+[pg!137]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Celeste!!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Bianca.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Sì, preferisco Bianca.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Vada per Bianca.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ragazza? maritata? vedova?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Così così.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ma non le pare che ci siamo conosciuti un'altra
+volta,... non so dove?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* Diamine, diamine!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(fingendo di ricordarsi)* No... a me non pare:
+anzi, certamente no.
+
+[pg!138]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ah, è vero: quella lì era un'altra. Un po' di
+rassomiglianza nei lineamenti, nel portamento, nella
+voce; ma poi, nel resto, tutta diversa.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* Meno male. *(Forte)* Intanto, cerchiamo
+questo portafogli.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(avvicinandosi a Bianca)* Ma credo d'averlo trovato
+io.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(soddisfatta)* Ah?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+È stato dimenticato proprio qui. *(Mostrandolo)*
+È questo?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Precisamente. Sa, in certi momenti, quando la
+testa gira....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Cara!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Ognuno può disperdere....
+
+[pg!139]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Un portafogli compromettente. E quando la testa
+non gira, ognuno può ritrovarlo.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Tanto vero, che io, quando la testa non girava,
+ne ho ritrovato uno, con cui, senza volere, ho scambiato
+il mio.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(seguendo ingenuamente la conversazione)* Oh, vedete
+che combinazione!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Davvero?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(mostrandolo)* Eccolo.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(tra sè, seccato)* Il portafogli di Fifì!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Non si turbi. Il documento più importante contenuto
+in questo portafogli non è che qualche biglietto
+di visita d'una donna. La donna dei suoi
+pensieri, forse?
+
+[pg!140]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(punto)* No. *(Con stizza)* Semplicemente una donna
+da avventure.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(atteggiandosi a ingenua)* In verità, non capisco...
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(piano a Carlo, tirandolo per la giacca)* Bada a
+quello che dici!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(a Bianca)* Non capisce? È giusto. Mi spiegherò:
+le donnine da avventure... sono, come si direbbe in
+gergo commerciale, degli articoli a buon mercato.
+Ce n'è per tutti i gusti. Io, per esempio, vivo qui,
+a Roma, solo, annoiato; ed ecco che mi procuro
+una donnina che mi serva da antidoto alla noia:
+articolo per salottino da scapolo. Al mio amico,
+invece, piace di viaggiare, ed egli, naturalmente,
+si procura degli articoli da viaggio.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(scattando)* Ma questo è troppo!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Carlo!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(a Bianca)* Non le va?
+
+[pg!141]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(a Carlo)* Tu sei un insolente! *(A Bianca, cercando
+di rimediare)* Non gli date retta. Il mio amico
+si compiace di mostrarsi più cinico di quanto veramente
+non sia. E voi, che siete, soprattutto, una
+donna di spirito, vorrete perdonarlo.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(disinvolta)* Di che? Perchè? Un salottino come
+questo non mi dà il diritto di pretendere un'accoglienza
+diversa da quella concessa alle ballerine,
+che ne illustrano le pareti. Del resto, un salottino
+di tal genere, se non garantisce il rispetto, garantisce
+in compenso il mistero. E l'animo mio fu
+profetico. *(A Francesco)* Difatti, ricordate voi che
+durante il viaggio io... vi amavo, è vero, ma vi
+amavo... senza farvene accorgere?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Verissimo.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+E dite. *(Richiamando su questo particolare l'attenzione
+di Carlo)* Quand'è che mi risolvetti ad
+amarvi diversamente?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Quando vi diedi il mio nome e il mio indirizzo.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+L'indirizzo di questa casa....
+
+[pg!142]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(gioendo, tra sè)* Ora comincio a capire.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Ebbene... gli è che, profeticamente, io rinunziavo
+al rispetto *(sempre sottolineando)* e mi accaparravo
+il mistero!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Cara, cara, cara! *(Tra sè)* Andate poi a dire che
+questa donna non mi ama!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(tra sè)* Ho torto io.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(a Carlo)* A proposito: lei signor... signor Tebaldi,
+vuole riprendere il portafogli della sua... della
+sua... come ho da dire?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Me lo dia pure, ma non dica nulla: direbbe certamente
+una malignità.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Glielo restituisco immacolato. Badi: è vuoto,
+perfettamente vuoto! e forse, *(con intenzione maliziosa)*
+è stato qui dimenticato... non senza uno
+scopo.
+
+[pg!143]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ed ecco il suo. Non è vuoto, ma credo che nemmeno
+esso sia stato qui dimenticato... senza una
+scopo.
+
+*(Si scambiano i portafogli con esagerata e ostentata
+gentilezza; quindi, di scatto, si allontanano
+l'uno dall'altra con violenza e sgarbo.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(tra sè)* Antipatia reciproca. Meglio così!
+
+.. class:: center
+
+| :scene:`(Si sente picchiare alla porta.)`
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(forte)* Chi è che batte?
+
+
+SCENA VI.
+---------
+
+FIFÌ, BIANCA, CARLO, FRANCESCO.
+```````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(di fuori)* Batte la tua Fifì.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(imbarazzatissimo, fra sè)* Maledetta!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(di fuori)* Mi pare d'aver lasciato sul tavolino
+il mio bel portafoglino. Apri, Fuffino. Ti farò anche
+un bacino.
+
+[pg!144]
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(a Carlo)* *Ino ino ino!*... L'hai abituata al diminutivo?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(anche lei a Carlo)* Oh! non s'imbarazzi. Io non
+voglio disturbare nessuno. Faccia entrare. Faccia
+pure il suo comodo.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Il suo *comodino*.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(di fuori)* Apri, Fuffino, fa presto!
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(guardando il paravento)* E per non offendere
+il pudore della signorina Fifì, nè quello di Fuffino,
+noi due *(accennando a Francesco)* ci nasconderemo
+dietro quel paravento.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Ottima idea! Noi due ci nasconderemo.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(arrabbiato e sempre imbarazzato)* Ma no, non
+è necessario che vi nascondiate tutti e due. Tu
+*(a Francesco)* puoi restar qui.
+
+[pg!145]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Egoista. Mi annoierei a star sola lì dietro.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Si annoierebbe.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Invece, in due, ci divertiremo un mondo. E lei,
+signor Fuffino, potrà trattenersi con l'oggetto del
+suo cuore. *(A Francesco con amore)* Non è vero?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Sì, tesoro.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(di fuori)* Non vuoi aprire, Fuffino?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Auff!... Vengo.
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(eccitata dalla gelosia, afferrando Francesco violentemente
+per un braccio, lo tira verso il paravento)*
+Qui, qui, amor mio! *(A Carlo)* Questo paravento
+sarà la gran muraglia della Cina: insormontabile!
+Ogni coppia sarà libera....
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+... e indipendente!
+
+[pg!146]
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(sulle spine)* Non troppa indipendenza, sai! *(Si
+decide ad aprire.)*
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(entrando)* Oh, finalmente! Perchè non aprivi?
+Che facevi?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Un bagno!... Sì, un bagno turco. Molto turco!
+
+*(In questa scena a quartetto, Francesco dà in
+ismanie d'amore, e Bianca finge di secondarlo,
+mentre, inquieta, stizzita, spia ed ascolta il colloquio
+tra Carlo e Fifì.)*
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Ti ho fatto una bella sorpresa?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Bellissima!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Non mi sembri contento.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(si accalora, s'inginocchia, si alza, siede, gesticola.
+Se ne vedono la testa le braccia agitate.)*
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Lasciatemi stare.... Non mi sento disposto....
+
+[pg!147]
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Che cos'è quel *voi*?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Quel *voi* è un *voi* come tutti i *voi*. *(Cerca di
+guardare ciò che accade dietro il paravento.)*
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Fuffino mio bello, perchè mi tratti così? *(Fa per
+dargli un bacio ed egli si scansa.)* Non lo vuoi un
+bacino?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Questo è il portafogli che avete dimenticato.
+*(Glie lo porge.)*
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(pigliandolo)*.... E dàgli col *voi*, Fuffino!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ma che Fuffino d'Egitto! Non lo capite che ho
+bisogno di star solo?!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Mi mandi via?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(quasi con bontà, per non irritarla)* No, non ti
+mando via....
+
+[pg!148]
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(per rappresaglia, s'intenerisce con Francesco.)*
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+*(continuando)* Bensì, ti prego d'andartene!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Ma quando ci rivedremo qui?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Qui, mai più!
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+E allora, dove?
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Nella Valle di Giosafatte.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+*(con serietà e con buona fede)* Io non ci sono mai
+stata. Dammi l'indirizzo preciso.
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Cerca nella *Guida*.
+
+*(A questo punto, dietro il paravento, Francesco,
+nel tentativo di un suo slancio troppo audace, è
+respinto da Bianca con energia e rotola giù, arrovesciato.
+Se ne vedono a terra il torace e la testa
+fuori del paravento.)*
+
+[pg!149]
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+Insomma, mi licenzii senza neanche darmi questo
+indirizzo?! Sta benissimo!,.. Addio! *(Va verso
+la porta. Sulla soglia, apre il portafogli e, trovandolo
+vuoto com'era, esclama a Carlo, minacciosa:)*
+Ma faremo i conti!
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Senza l'oste.
+
+.. class:: center
+
+| :small-caps:`Fifì`
+
+.. class:: center
+
+*(va via.)*
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+*(facendo capolino dietro il paravento)* Partita?
+*(Slanciandosi freneticamente al collo di Carlo)* Ed
+ora, il bacio te lo do io. *(Gli dà un gran bacio
+sulla guancia.)*
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(al colmo della meraviglia)* Ohè, ohè! Che vuol
+dire ciò?
+
+.. class:: center
+
+| :small-caps:`Bianca`
+
+Vuol dire che la sciarada è sciolta, e il premio
+è dato. Il primo ama, il secondo perdona, l'intero
+ritorna....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Ritorna a essere quello che era. *(A Francesco)*
+[pg!150]
+Ho l'onore di presentarti Bianca Tebaldi, mia
+moglie.
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(comprendendo a poco a poco e trasalendo, prorompe
+in tre esclamazioni crescenti:)* Ah!... Aah!...
+Aaaah!....
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Che ti viene?
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+*(cascando sopra una seggiola)* Un accidente!...
+*(Poi, subito, ricomponendosi ed alzandosi:)* *Pardon!*
+Signora ben lieto di...
+
+.. class:: center
+
+| :small-caps:`Carlo`
+
+Sicchè, quel tale marito, sai, quel marito imbecille...
+ero io!
+
+.. class:: center
+
+| :small-caps:`Francesco`
+
+Va là! Comincio a persuadermi che, per fare la
+carriera dell'imbecille, *(accennando a sè stesso)*
+non è indispensabile essere... un marito.
+
+|
+|
+
+.. class:: center
+
+| :scene:`(Sipario.)`
+
+|
+|
+|
+|
+|
+
+.. _pg_end_line:
+
+\*\*\* END OF THIS PROJECT GUTENBERG EBOOK UN'AVVENTURA DI VIAGGIO \*\*\*
+
+.. backmatter::
+
+.. toc-entry::
+   :depth: 0
+
+.. _pg-footer:
+
+.. class:: pgfooter language-en
+
+A Word from Project Gutenberg
+=============================
+
+We will update this book if we find any errors.
+
+This book can be found under: http://www.gutenberg.org/ebooks/37931
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules, set
+forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg™ electronic works to
+protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.
+They may be modified and printed and given away – you may do
+practically *anything* with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+.. _Project Gutenberg License:
+
+The Full Project Gutenberg License
+----------------------------------
+
+*Please read this before you distribute or use this work.*
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+http://www.gutenberg.org/license.
+
+
+Section 1. General Terms of Use & Redistributing Project Gutenberg™ electronic works
+````````````````````````````````````````````````````````````````````````````````````
+
+**1.A.** By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound by
+the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+**1.B.** “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg™ electronic
+works. See paragraph 1.E below.
+
+**1.C.** The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is in the public domain in the United
+States and you are located in the United States, we do not claim a
+right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting free
+access to electronic works by freely sharing Project Gutenberg™ works
+in compliance with the terms of this agreement for keeping the Project
+Gutenberg™ name associated with the work. You can easily comply with
+the terms of this agreement by keeping this work in the same format
+with its attached full Project Gutenberg™ License when you share it
+without charge with others.
+
+
+
+**1.D.** The copyright laws of the place where you are located also
+govern what you can do with this work. Copyright laws in most
+countries are in a constant state of change. If you are outside the
+United States, check the laws of your country in addition to the terms
+of this agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work.  The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+**1.E.** Unless you have removed all references to Project Gutenberg:
+
+**1.E.1.** The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere at no cost and with
+  almost no restrictions whatsoever. You may copy it, give it away or
+  re-use it under the terms of the Project Gutenberg License included
+  with this eBook or online at http://www.gutenberg.org
+
+**1.E.2.** If an individual Project Gutenberg™ electronic work is
+derived from the public domain (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work
+can be copied and distributed to anyone in the United States without
+paying any fees or charges. If you are redistributing or providing
+access to a work with the phrase “Project Gutenberg” associated with
+or appearing on the work, you must comply either with the requirements
+of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of
+the work and the Project Gutenberg™ trademark as set forth in
+paragraphs 1.E.8 or 1.E.9.
+
+**1.E.3.** If an individual Project Gutenberg™ electronic work is
+posted with the permission of the copyright holder, your use and
+distribution must comply with both paragraphs 1.E.1 through 1.E.7 and
+any additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works posted
+with the permission of the copyright holder found at the beginning of
+this work.
+
+**1.E.4.** Do not unlink or detach or remove the full Project
+Gutenberg™ License terms from this work, or any files containing a
+part of this work or any other work associated with Project
+Gutenberg™.
+
+**1.E.5.** Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+**1.E.6.** You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format other
+than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ web site
+(http://www.gutenberg.org), you must, at no additional cost, fee or
+expense to the user, provide a copy, a means of exporting a copy, or a
+means of obtaining a copy upon request, of the work in its original
+“Plain Vanilla ASCII” or other form. Any alternate format must include
+the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+**1.E.7.** Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+**1.E.8.** You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works provided
+that
+
+.. class:: open
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method you
+  already use to calculate your applicable taxes. The fee is owed to
+  the owner of the Project Gutenberg™ trademark, but he has agreed to
+  donate royalties under this paragraph to the Project Gutenberg
+  Literary Archive Foundation. Royalty payments must be paid within 60
+  days following each date on which you prepare (or are legally
+  required to prepare) your periodic tax returns. Royalty payments
+  should be clearly marked as such and sent to the Project Gutenberg
+  Literary Archive Foundation at the address specified in Section 4,
+  “Information about donations to the Project Gutenberg Literary
+  Archive Foundation.”
+
+- You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+- You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+**1.E.9.** If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and
+Michael Hart, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
+
+**1.F.**
+
+**1.F.1.** Project Gutenberg volunteers and employees expend
+considerable effort to identify, do copyright research on, transcribe
+and proofread public domain works in creating the Project Gutenberg™
+collection. Despite these efforts, Project Gutenberg™ electronic
+works, and the medium on which they may be stored, may contain
+“Defects,” such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+**1.F.2.** LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the
+“Right of Replacement or Refund” described in paragraph 1.F.3, the
+Project Gutenberg Literary Archive Foundation, the owner of the
+Project Gutenberg™ trademark, and any other party distributing a
+Project Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+**1.F.3.** LIMITED RIGHT OF REPLACEMENT OR REFUND – If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+**1.F.4.** Except for the limited right of replacement or refund set
+forth in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH
+NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+**1.F.5.** Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+**1.F.6.** INDEMNITY – You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in accordance
+with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+
+Section 2. Information about the Mission of Project Gutenberg™
+``````````````````````````````````````````````````````````````
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will remain
+freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org .
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+``````````````````````````````````````````````````````````````````````````````
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf . Contributions to the
+Project Gutenberg Literary Archive Foundation are tax deductible to
+the full extent permitted by U.S.  federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are
+scattered throughout numerous locations. Its business office is
+located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
+
+For additional contact information:
+
+ | Dr. Gregory B. Newby
+ | Chief Executive and Director
+ | gbnewby@pglaf.org
+
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+```````````````````````````````````````````````````````````````````````````````````````````
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array of
+equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status
+with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5. General Information About Project Gutenberg™ electronic works.
+`````````````````````````````````````````````````````````````````````````
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg™ eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the
+U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected *editions* of our eBooks replace the old file and take over
+the old filename and etext number. The replaced older file is
+renamed. *Versions* based on separate sources are treated as new
+eBooks receiving new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search
+facility:
+
+  http://www.gutenberg.org
+            
+This Web site includes information about Project Gutenberg™, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe
+to our email newsletter to hear about new eBooks.
+
